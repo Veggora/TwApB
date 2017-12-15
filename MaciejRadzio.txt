@@ -1,0 +1,26 @@
+1. Polecenia kolejno wykonywane to :
+	cd Desktop
+	mkdir TwApB 
+	cd TwApB
+	touch MaciejRadzio.txt
+
+3. Ostatnio Commit zosta³ wykonany : Commits on Dec 15, 2017 
+	Joanna Kolodziejczyk committed 3 minutes ago od Godziny 13:50
+
+4. We wskazanym repozytorium znajduj¹ siê 4 pliki s¹ to : 
+	Instrukcja, InstrukcjaGit, README.md, instruction.pdf
+
+5. Zawartoœæ README.md to :
+	Test-Ruby
+	To repozytorium zawiera zadania do wykonania z przedmiotu Tworzenie aplikacji bazodanowych
+
+6. Utworzenie repozytorium : 
+	git init Git 
+
+7. 
+
+8. Skopiowanie do folderu Test-Ruby
+	cd ..
+	mkdir Ruby-Test
+	cd Ruby-Test
+	git clone https://github.com/elois/Test-Ruby

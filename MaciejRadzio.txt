@@ -24,3 +24,11 @@
 	mkdir Ruby-Test
 	cd Ruby-Test
 	git clone https://github.com/elois/Test-Ruby
+
+9. Dodawanie repozytorium 
+	echo "# TwApB" >> README.md
+	git init
+	git add README.md
+	git commit -m "dodano zadani"
+	git remote add origin https://github.com/Veggora/TwApB.git
+	git push -u origin master
